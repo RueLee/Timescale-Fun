@@ -7,7 +7,7 @@
 #include <updater>
 
 #define PLUGIN_VERSION	"0.4.0"
-#define UPDATE_URL		"https://github.com/RueLee/TF2-Increase-Host-TimeScale-on-Player-Death/blob/main/updater.txt"
+#define UPDATE_URL		"https://github.com/RueLee/TF2-Timescale-Fun/blob/main/updater.txt"
 
 ConVar g_hTimeScale;
 ConVar g_hRandomMin;
